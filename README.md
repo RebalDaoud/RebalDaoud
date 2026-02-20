@@ -28,8 +28,8 @@ I am a 2nd-year **Information Technology Engineering** student at **Damascus Uni
 
 ---
 
-**Exploring:**	
-Algorithms / Data Structures
+### 🧱 Exploring:**	
+* **Algorithms** / **Data Structures**
 
 ---
 
