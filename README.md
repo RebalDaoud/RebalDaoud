@@ -28,7 +28,7 @@ I am a 2nd-year **Information Technology Engineering** student at **Damascus Uni
 
 ---
 
-### 🧱 Exploring:**	
+### 🧱 Exploring:
 * **Algorithms** / **Data Structures**
 
 ---
