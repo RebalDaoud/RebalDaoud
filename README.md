@@ -16,26 +16,20 @@ I am a 3rd-year **Information Technology Engineering** student at **Damascus Uni
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-**Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,php)](https://skillicons.dev)
 
-**Learning & Tools:**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel)](https://skillicons.dev)
 
+### Tools & Databases
+[![My Skills](https://skillicons.dev/icons?i=git,github,maven,postman,sqlite,mysql)](https://skillicons.dev)
 ---
 
 ### 🧱 Exploring:
 * **Algorithms** / **Data Structures**
-
----
-
-### 📂 Featured Projects
-* **Library Management System:** A comprehensive system built to manage books, users, and borrowing processes.
-* **Production Line Management:** An industrial-focused project to track and optimize production workflows.
 
 ---
 
