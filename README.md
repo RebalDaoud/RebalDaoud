@@ -5,7 +5,7 @@
 </p>
 
 ### 🎓 About Me
-I am a 2nd-year **Information Technology Engineering** student at **Damascus University** with a growing passion for software development.I am passionate about building robust systems and solving complex problems.
+I am a 3rd-year **Information Technology Engineering** student at **Damascus University** with a growing passion for software development.I am passionate about building robust systems and solving complex problems.
 
 - 🏗️ Currently focusing on:
 - **Backend Development** with **Spring Boot**.
