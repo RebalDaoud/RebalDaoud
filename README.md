@@ -34,9 +34,13 @@ I am a 3rd-year **Information Technology Engineering** student at **Damascus Uni
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebal-daoud&show_icons=true&theme=vivid&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebal-daoud&layout=compact&theme=vivid"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=rebal-daoud&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebal-daoud&layout=compact&hide_border=true" />
 </p>
 
 ---
