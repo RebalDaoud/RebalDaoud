@@ -8,7 +8,7 @@
 I am a 3rd-year **Information Technology Engineering** student at **Damascus University** with a growing passion for software development.I am passionate about building robust systems and solving complex problems.
 
 - 🏗️ Currently focusing on:
-- **Backend Development** with **Spring Boot**.
+- **Backend Development**.
 - **Git & GitHub** workflows.
 - **Data structures** & **algorithms**.
 - ♟️ Fun Fact: I am a Chess player, actually a good chess player 😊. 
